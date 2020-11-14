@@ -1,0 +1,12 @@
+C:\CallCenter\CallCenterLogic\bin\Debug\CallCenterLogic.dll
+C:\CallCenter\CallCenterLogic\bin\Debug\CallCenterLogic.pdb
+C:\CallCenter\CallCenterLogic\obj\Debug\CallCenterLogic.csprojAssemblyReference.cache
+C:\CallCenter\CallCenterLogic\obj\Debug\CallCenterLogic.csproj.CoreCompileInputs.cache
+C:\CallCenter\CallCenterLogic\obj\Debug\CallCenterLogic.dll
+C:\CallCenter\CallCenterLogic\obj\Debug\CallCenterLogic.pdb
+C:\CallCenter\CallCenterLogic\bin\Debug\CallCenterModel.dll
+C:\CallCenter\CallCenterLogic\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\CallCenter\CallCenterLogic\bin\Debug\System.Collections.Immutable.dll
+C:\CallCenter\CallCenterLogic\bin\Debug\CallCenterModel.pdb
+C:\CallCenter\CallCenterLogic\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\CallCenter\CallCenterLogic\obj\Debug\CallCenterLogic.csproj.CopyComplete
