@@ -47,7 +47,6 @@
   <ItemGroup>
     <Compile Include="CalificacionModel.cs" />
     <Compile Include="CallCenterModel.cs" />
-    <Compile Include="CallCenterContext.cs" />
     <Compile Include="ConversacionModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

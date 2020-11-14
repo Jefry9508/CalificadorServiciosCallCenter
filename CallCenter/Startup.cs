@@ -29,9 +29,9 @@ namespace CallCenter
                 configuration.RootPath = "ClientApp/dist";
             });
 
-            //services.AddDbContext<CallCenterLogic.CallCenterLogic>(
-            //    options => options.UseInMemoryDatabase(databaseName: "testDB")
-            //);
+            services.AddDbContext<CallCenterModel.CallCenterContext>(
+                options => options.UseInMemoryDatabase(databaseName: "testDB")
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

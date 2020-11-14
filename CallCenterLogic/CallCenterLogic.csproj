@@ -35,6 +35,11 @@
       <HintPath>..\CallCenterModel\bin\Debug\CallCenterModel.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.entityframeworkcore\2.1.1\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CalificacionLogic.cs" />
+    <Compile Include="CallCenterContext.cs" />
     <Compile Include="CallCenterLogic.cs" />
     <Compile Include="ConversacionLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

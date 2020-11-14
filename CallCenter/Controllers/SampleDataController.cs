@@ -15,6 +15,12 @@ namespace CallCenter.Controllers
         };
 
         [HttpGet("[action]")]
+        public string CalificacioGeneral()
+        {
+            return "Respuesta al metodo";
+        }
+
+        [HttpGet("[action]")]
         public IEnumerable<WeatherForecast> WeatherForecasts()
         {
             var rng = new Random();
@@ -25,6 +31,8 @@ namespace CallCenter.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             });
         }
+
+        
 
         public class WeatherForecast
         {
