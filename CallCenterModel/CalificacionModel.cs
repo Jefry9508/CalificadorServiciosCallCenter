@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CallCenter.CallCenterModel
 {
-    class CalificacionModel
+    public class CalificacionModel
     {
         private int puntos;
         private int estrellas;

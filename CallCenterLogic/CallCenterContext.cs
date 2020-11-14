@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CallCenter.CallCenterModel
 {
-    class CallCenterContext : DbContext
+    public class CallCenterContext : DbContext
     {
         public DbSet<ConversacionModel> Conversaciones { get; set; }
 

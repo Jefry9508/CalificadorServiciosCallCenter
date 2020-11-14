@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CallCenter.CallCenterModel
 {
-    class ConversacionModel
+    public class ConversacionModel
     {
         private String titulo;
         private String contenido;

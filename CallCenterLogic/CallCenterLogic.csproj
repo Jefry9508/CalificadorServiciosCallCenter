@@ -33,6 +33,7 @@
   <ItemGroup>
     <Reference Include="CallCenterModel">
       <HintPath>..\CallCenterModel\bin\Debug\CallCenterModel.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CallCenter.CallCenterLogic
 {
-    class ConversacionLogic
+    public class ConversacionLogic
     {
 
         private static readonly string[] ListaPalabras = new[]
@@ -23,6 +23,8 @@ namespace CallCenter.CallCenterLogic
         private static readonly int puntosConversacionAbandonada = -100;
 
         private Dictionary<long, String> PalabrasClave;
+
+        private CallCenterModel.CallCenterContext _context;
 
         public enum ListaPalabrasEnum : long
         {

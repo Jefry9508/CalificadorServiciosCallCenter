@@ -7,3 +7,4 @@ C:\CallCenter\CallCenterModel\obj\Debug\CallCenterModel.csproj.CoreCompileInputs
 C:\CallCenter\CallCenterModel\obj\Debug\CallCenterModel.csproj.CopyComplete
 C:\CallCenter\CallCenterModel\obj\Debug\CallCenterModel.dll
 C:\CallCenter\CallCenterModel\obj\Debug\CallCenterModel.pdb
+C:\CallCenter\CallCenterModel\obj\Debug\CallCenterModel.csprojAssemblyReference.cache

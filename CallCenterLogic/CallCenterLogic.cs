@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CallCenter.CallCenterLogic
 {
-    class CallCenterLogic
+    public class CallCenterLogic
     {
+        
     }
 }
